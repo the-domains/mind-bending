@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mind Bending]]></title>
         <description><![CDATA[Mind Bending]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mind-bending/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 00:11:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 00:13:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mind-bending/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37cbd9e4-98c9-43f7-bfca-b6c34e1e5c28.JPG">]]></description>
-            <link>undefinedfff66535-d61d-49bd-89e2-db52a8d0ffec/index.html</link>
+            <title><![CDATA[What an odd start to 2016]]></title>
+            <description><![CDATA[<article><h1>What an odd start to 2016</h1><p>It was strange from its earliest moments this year - Nicole and Alex for New Year's Eve and a wonderful meal, one misplaced comment and a car ride later yelling and running barefoot and drama.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25a0f7dead371aec748dd0dce7545ba0e76bc220.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mind-bending/fff66535-d61d-49bd-89e2-db52a8d0ffec/index.html</link>
             <guid isPermaLink="false">fff66535-d61d-49bd-89e2-db52a8d0ffec</guid>
-            <pubDate>Sat, 27 Feb 2016 00:11:14 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 00:13:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
